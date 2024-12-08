@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderzparadise
-- 👀 I’m interested in Cracking the Coding Interview, Android, Python and AI/ML
+- 👀 I’m interested in Cracking the Coding Interview, Android Apps in Java, Python and AI/ML
 - 🌱 I’m currently learning how to market the brand
 - 💞️ I’m looking to collaborate with coders that like youtube
 - 📫 How to reach me #coderzparadise
