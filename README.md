@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cracking the Coding Interview, Android Apps in Java, Python and AI/ML
 - 🌱 I’m currently learning how to make #coderzparadise cool
 - 💞️ I’m looking to collaborate with coderz that like youtube
-- 📫 How to reach me #coderzparadise
+- 📫 How to reach me? Fork my repo ;)
 - 😄 Pronouns: beach/beaches?
 - ⚡ Fun fact: I am a computer science engineer
 
