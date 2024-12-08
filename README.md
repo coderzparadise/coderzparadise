@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderzparadise
 - 👀 I’m interested in Cracking the Coding Interview, Android Apps in Java, Python and AI/ML
-- 🌱 I’m currently learning how to market the brand
-- 💞️ I’m looking to collaborate with coders that like youtube
+- 🌱 I’m currently learning how to make #coderzparadise cool
+- 💞️ I’m looking to collaborate with coderz that like youtube
 - 📫 How to reach me #coderzparadise
 - 😄 Pronouns: beach/beaches?
 - ⚡ Fun fact: I am a computer science engineer
