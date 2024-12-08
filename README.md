@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coderzparadise
-- 👀 I’m interested in Cracking the Coding Interview, Android Apps in Java, Python and AI/ML
+- 👀 I’m interested in Android Apps in Java, Cracking the Coding Interview, Crypto, Python and AI/ML
 - 🌱 I’m currently learning how to make #coderzparadise cool
 - 💞️ I’m looking to collaborate with coderz that like youtube
 - 📫 How to reach me? Fork my repo ;)
