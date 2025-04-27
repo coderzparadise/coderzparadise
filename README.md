@@ -14,8 +14,7 @@
 
 ## Repo dir
 - [Home Page](https://github.com/coderzparadise)
-- [READ ME](https://github.com/coderzparadise/README)
-- [DataStructure](https://github.com/coderzparadise/coderzparadise/tree/main/DataStructure)
+- [DataStructure](https://github.com/coderzparadise/DataStructure)
 - [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
 - pip install coderzparadise (comming soon)
 
