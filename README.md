@@ -15,12 +15,13 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - 1. [Home Page](https://github.com/coderzparadise)
 - 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm) 
-- 4. pip install coderzparadise (comming soon)
-<br />
+- 4. pip install coderzparadise (comming soon)\
+\
+\
 ---
 ---
 ---
-<br />
+
 ## @CoderzParadise - en espanol 🇲🇽 🇪🇸
 - ¡Hola mundo 👋, este es @coderzparadise!
 
