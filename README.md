@@ -54,7 +54,7 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 
 - 💞️ Estruturas de dados feitas do zero, incluindo também perguntas reais do Google, Facebook, Twitter, Microsoft, Uber, Pinterest, Bloomberg...
 
-- 📫 Instruções: clone/faça um fork de ambos os repositórios do Github ([DataStructure](https://github.com/coderzparadise/DataStructure) && [Algorithm](https://github.com/coderzparadise/Algorithm))..
+- 📫 Instruções: clone/faça um fork de ambos os repositórios do Github ([DataStructure](https://github.com/coderzparadise/DataStructure) && [Algorithm](https://github.com/coderzparadise/Algorithm)).
 Complete 1 nova função a cada dia e todas as funções anteriores [siga o modelo do repositório] até que todas as 200 funções/perguntas estejam completas (deve ser capaz de codificar e explicar qualquer estrutura de dados ou função em no máximo 5 a 13 minutos).
 
 - 🌱 Curiosidade: feito por um graduado universitário de ciência da computação/engenharia elétrica para te ajudar a conseguir seu emprego na área de tecnologia e programar paraíso 🌴.
