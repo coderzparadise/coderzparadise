@@ -11,7 +11,7 @@
 Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 functions/questions are complete (must be able to code and explain any data structure or function within 5 to 13 minutes tops).
 
 - 🌱 Fun fact: made from a cs/ee college grad to help you land your tech job and code in paradise for the rest of your life 🌴
-### Repo 
+#### Repo 
 - 1. [Home Page](https://github.com/coderzparadise)
 - 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm) 
@@ -35,7 +35,7 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 
 - 🌱 Dato curioso: hecho por un graduado universitario de informática/ingeniería eléctrica para ayudarte a conseguir tu trabajo en tecnología y programar en el paraíso por siempre 🌴.
 
-### Repositorio 
+#### Repositorio 
 - 1. [Portada](https://github.com/coderzparadise)
 - 2. [Estructura Datos](https://github.com/coderzparadise/DataStructure)
 - 3. [Algoritmo](https://github.com/coderzparadise/Algorithm)
@@ -58,7 +58,7 @@ Complete 1 nova função a cada dia e todas as funções anteriores [siga o mode
 
 - 🌱 Curiosidade: feito por um graduado universitário de ciência da computação/engenharia elétrica para te ajudar a conseguir seu emprego na área de tecnologia e programar paraíso 🌴.
 
-### Repositório 
+#### Repositório 
 - 1. [Pagina Principa](https://github.com/coderzparadise)
 - 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm)
