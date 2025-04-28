@@ -12,10 +12,10 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 
 - 🌱 Fun fact: made from a cs/ee college grad to help you land your tech job and code in paradise for the rest of your life 🌴
 ### Repo 
-- [Home Page](https://github.com/coderzparadise)
-- [DataStructure](https://github.com/coderzparadise/DataStructure)
-- [Algorithm](https://github.com/coderzparadise/Algorithm) 
-- pip install coderzparadise (comming soon)
+- 1. [Home Page](https://github.com/coderzparadise)
+- 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
+- 3. [Algorithm](https://github.com/coderzparadise/Algorithm) 
+- 4. pip install coderzparadise (comming soon)
 ---
 ---
 # @CoderzParadise - en espanol 🇲🇽 🇪🇸
