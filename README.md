@@ -38,7 +38,7 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 
 ---
 # @CoderzParadise - en portugues
-- Olá mundo 👋, este é o @coderzparadise!
+- Olá mundo 👋, este é @coderzparadise!
 
 - 👀 Top 200 questões de estrutura de dados e LeetCode para passar em múltiplas entrevistas técnicas de ciência da computação na faculdade.
 
