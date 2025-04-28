@@ -11,6 +11,12 @@
 Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 functions/questions are complete (must be able to code and explain any data structure or function within 5 to 13 minutes tops).
 
 - 🌱 Fun fact: made from a cs/ee college grad to help you land your tech job and code in paradise for the rest of your life 🌴
+- 
+## Repo 
+- [Home Page](https://github.com/coderzparadise)
+- [DataStructure](https://github.com/coderzparadise/DataStructure)
+- [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
+- pip install coderzparadise (comming soon)
 ---
 - ¡Hola mundo 👋, este es @coderzparadise!
 
@@ -26,11 +32,10 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 🌱 Dato curioso: hecho por un graduado universitario de informática/ingeniería eléctrica para ayudarte a conseguir tu trabajo en tecnología y programar en el paraíso por siempre 🌴.
 
 
-## Repo 
+## Repositorio 
 - [Home Page](https://github.com/coderzparadise)
 - [DataStructure](https://github.com/coderzparadise/DataStructure)
 - [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
-- pip install coderzparadise (comming soon)
 
 <!---
 coderzparadise/coderzparadise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
