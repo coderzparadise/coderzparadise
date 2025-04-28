@@ -33,9 +33,9 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 
 
 ## Repositorio 
-- [Home Page](https://github.com/coderzparadise)
-- [DataStructure](https://github.com/coderzparadise/DataStructure)
-- [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
+- [Portada](https://github.com/coderzparadise)
+- [Estructura Datos](https://github.com/coderzparadise/DataStructure)
+- [Algoritmo (Leetcode)](https://github.com/coderzparadise/Algorithm)
 
 <!---
 coderzparadise/coderzparadise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
