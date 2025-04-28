@@ -24,7 +24,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 
 - ⚡ Tu eres algien aprendiendo cómo aprobar entrevistas técnicas de technologia mientras estudias una carrera en la universidad; ciencia de la computación o ingeniería eléctrica.
 
-- 💞️ Estructuras de datos creadas hecho desde cero, incluyendo tmb preguntas reales de Google, Facebook, Twitter, Microsoft, Uber, Pinterest, Bloomberg...
+- 💞️ Estructuras de datos estan creadas de mano incluyendo tmb preguntas reales de Google, Facebook, Twitter, Microsoft, Uber, Pinterest, Bloomberg...
 
 - 📫 Instrucciones: clona/haz un fork de ambos repositorios de Github ([DataStructure](https://github.com/coderzparadise/DataStructure) && [Algorithm](https://github.com/coderzparadise/Algorithm)).
 Completa 1 nueva función cada día y todas las funciones anteriores [sigue la plantilla del repositorio] hasta que se completen las 200 funciones/preguntas (debes ser capaz de programar y explicar cualquier estructura de datos o función en un máximo de 5 a 13 minutos).
