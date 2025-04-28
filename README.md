@@ -17,11 +17,11 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm) 
 - 4. pip install coderzparadise (comming soon)\
 \
-\
----
----
----
 
+---
+---
+---
+\
 ## @CoderzParadise - en espanol 🇲🇽 🇪🇸
 - ¡Hola mundo 👋, este es @coderzparadise!
 
