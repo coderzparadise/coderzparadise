@@ -33,7 +33,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - 📫 Instrucciones: clona/haz un fork de ambos repositorios de Github ([DataStructure](https://github.com/coderzparadise/DataStructure) && [Algorithm](https://github.com/coderzparadise/Algorithm)).
 Completa 1 nueva función cada día y todas las funciones anteriores [sigue la plantilla del repositorio] hasta que se completen las 200 funciones/preguntas (debes ser capaz de programar y explicar cualquier estructura de datos o función en un máximo de 5 a 13 minutos).
 
-🌱 Dato curioso: hecho por un graduado universitario de informática/ingeniería eléctrica para ayudarte a conseguir tu trabajo en tecnología y programar en el paraíso por siempre 🌴.
+- 🌱 Dato curioso: hecho por un graduado universitario de informática/ingeniería eléctrica para ayudarte a conseguir tu trabajo en tecnología y programar en el paraíso por siempre 🌴.
 
 ### Repositorio 
 - 1. [Portada](https://github.com/coderzparadise)
