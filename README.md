@@ -27,7 +27,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 
 - 👀 Las 200 mejores preguntas de estructura de datos y LeetCode para aprobar múltiples entrevistas técnicas de technologia en la universidad.
 
-- ⚡ Tu eres algien aprendiendo cómo aprobar entrevistas técnicas de technologia mientras estudias una carrera en la universidad; ciencia de la computación o ingeniería eléctrica.
+- ⚡ Tu eres algien aprendiendo cómo aprobar entrevistas técnicas de technologia mientras estudias una carrera en la universidad en ciencia de computación.
 
 - 💞️ Estructuras de datos estan creadas de mano incluyendo tmb preguntas reales de Google, Facebook, Twitter, Microsoft, Uber, Pinterest, Bloomberg...
 
