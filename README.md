@@ -11,6 +11,7 @@
 Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 functions/questions are complete (must be able to code and explain any data structure or function within 5 to 13 minutes tops).
 
 - 🌱 Fun fact: made from a cs/ee college grad to help you land your tech job and code in paradise for the rest of your life 🌴
+
 #### Repository
 - 1. [Home Page](https://github.com/coderzparadise)
 - 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
