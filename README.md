@@ -62,7 +62,6 @@ Complete 1 nova função a cada dia e todas as funções anteriores [siga o mode
 - 1. [Pagina Principa](https://github.com/coderzparadise)
 - 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm)
-
 ---
 ---
 ---
