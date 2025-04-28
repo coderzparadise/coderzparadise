@@ -31,11 +31,30 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 
 🌱 Dato curioso: hecho por un graduado universitario de informática/ingeniería eléctrica para ayudarte a conseguir tu trabajo en tecnología y programar en el paraíso por siempre 🌴.
 
-
 ## Repositorio 
 - [Portada](https://github.com/coderzparadise)
 - [Estructura Datos](https://github.com/coderzparadise/DataStructure)
 - [Algoritmo (Leetcode)](https://github.com/coderzparadise/Algorithm)
+
+---
+# @CoderzParadise - en portugues
+- Olá mundo 👋, este é o @coderzparadise!
+
+- 👀 Top 200 questões de estrutura de dados e LeetCode para passar em múltiplas entrevistas técnicas de ciência da computação na faculdade.
+
+- ⚡ Você está atualmente aprendendo como passar em entrevistas técnicas de ciência da computação cursando graduação em ciência da computação/engenharia elétrica.
+
+- 💞️ Estruturas de dados feitas do zero, incluindo também perguntas reais do Google, Facebook, Twitter, Microsoft, Uber, Pinterest, Bloomberg...
+
+- 📫 Instruções: clone/faça um fork de ambos os repositórios do Github ([DataStructure](https://github.com/coderzparadise/DataStructure) && [Algorithm](https://github.com/coderzparadise/Algorithm))..
+Complete 1 nova função a cada dia e todas as funções anteriores [siga o modelo do repositório] até que todas as 200 funções/perguntas estejam completas (deve ser capaz de codificar e explicar qualquer estrutura de dados ou função em no máximo 5 a 13 minutos).
+
+- 🌱 Curiosidade: feito por um graduado universitário de ciência da computação/engenharia elétrica para te ajudar a conseguir seu emprego na área de tecnologia e programar no paraíso pelo resto da sua vida 🌴.
+
+### Repo 
+- [Pagina Principa](https://github.com/coderzparadise)
+- [DataStructure](https://github.com/coderzparadise/DataStructure)
+- [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
 
 <!---
 coderzparadise/coderzparadise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
