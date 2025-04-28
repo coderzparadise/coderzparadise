@@ -12,7 +12,7 @@
 - 🌱 Fun fact: made from a cs/ee college grad to help you land your tech job and code in paradise for the rest of your life 🌴
 
 
-## Repo dir
+## Repo 
 - [Home Page](https://github.com/coderzparadise)
 - [DataStructure](https://github.com/coderzparadise/DataStructure)
 - [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
