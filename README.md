@@ -11,6 +11,19 @@
 Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 functions/questions are complete (must be able to code and explain any data structure or function within 5 to 13 minutes tops).
 
 - 🌱 Fun fact: made from a cs/ee college grad to help you land your tech job and code in paradise for the rest of your life 🌴
+---
+- ¡Hola mundo 👋, este es @coderzparadise!
+
+- 👀 Las 200 mejores preguntas de estructura de datos y LeetCode para aprobar múltiples entrevistas técnicas de informática en la universidad.
+
+- ⚡ Actualmente estás aprendiendo cómo aprobar entrevistas técnicas de informática mientras estudias una carrera de informática o ingeniería eléctrica.
+
+- 💞️ Estructuras de datos creadas desde cero, incluyendo también preguntas reales de Google, Facebook, Twitter, Microsoft, Uber, Pinterest, Bloomberg...
+
+- 📫 Instrucciones: clona/haz un fork de ambos repositorios de Github ([DataStructure](https://github.com/coderzparadise/DataStructure) && [Algorithm](https://github.com/coderzparadise/Algorithm)).
+Completa 1 nueva función cada día y todas las funciones anteriores [sigue la plantilla del repositorio] hasta que se completen las 200 funciones/preguntas (debes ser capaz de programar y explicar cualquier estructura de datos o función en un máximo de 5 a 13 minutos).
+
+🌱 Dato curioso: hecho por un graduado universitario de informática/ingeniería eléctrica para ayudarte a conseguir tu trabajo en tecnología y programar en el paraíso por siempre 🌴.
 
 
 ## Repo 
