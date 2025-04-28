@@ -17,6 +17,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
 - pip install coderzparadise (comming soon)
 ---
+# @CoderzParadise en espanol
 - ¡Hola mundo 👋, este es @coderzparadise!
 
 - 👀 Las 200 mejores preguntas de estructura de datos y LeetCode para aprobar múltiples entrevistas técnicas de informática en la universidad.
