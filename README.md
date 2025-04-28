@@ -19,6 +19,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 ---
 ---
 ---
+---
 ## @CoderzParadise - en espanol 🇲🇽 🇪🇸
 - ¡Hola mundo 👋, este es @coderzparadise!
 
@@ -40,6 +41,7 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 ---
 ---
 ---
+---
 ## @CoderzParadise - en portugues 🇧🇷 🇵🇹
 - Olá mundo 👋, este é @coderzparadise!
 
@@ -58,6 +60,7 @@ Complete 1 nova função a cada dia e todas as funções anteriores [siga o mode
 - 1. [Pagina Principa](https://github.com/coderzparadise)
 - 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm)
+---
 ---
 ---
 ---
