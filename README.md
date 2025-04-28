@@ -20,7 +20,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 # @CoderzParadise - en espanol
 - ¡Hola mundo 👋, este es @coderzparadise!
 
-- 👀 Las 200 mejores preguntas de estructura de datos y LeetCode para aprobar múltiples entrevistas técnicas de informática en la universidad.
+- 👀 Las 200 mejores preguntas de estructura de datos y LeetCode para aprobar múltiples entrevistas técnicas de technologia en la universidad.
 
 - ⚡ Actualmente estás aprendiendo cómo aprobar entrevistas técnicas de informática mientras estudias una carrera en technologia; ciencia de la computación o ingeniería eléctrica.
 
