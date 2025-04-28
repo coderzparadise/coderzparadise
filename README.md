@@ -14,7 +14,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 ### Repo 
 - [Home Page](https://github.com/coderzparadise)
 - [DataStructure](https://github.com/coderzparadise/DataStructure)
-- [Algorithm](https://github.com/coderzparadise/Algorithm) [(leetcode)](https://leetcode.com/)
+- [Algorithm](https://github.com/coderzparadise/Algorithm) [(leetcode)](https://leetcode.com/) `#f03c15`
 - pip install coderzparadise (comming soon)
 ---
 ---
