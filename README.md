@@ -1,7 +1,7 @@
 # @CoderzParadise 🇺🇸
 - 👋 Hello world, this is @coderzparadise 
 
-- 👀 Top 200 data structure and leetcode questions to pass multiple cs technical interviews in college
+- 👀 Top 200 data structure and leetcode questions to pass multiple swe technical interviews in college
 
 - ⚡ You are currently learning how to pass cs technical interviews pursing cs/ee degree
 
