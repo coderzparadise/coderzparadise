@@ -17,6 +17,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
 - pip install coderzparadise (comming soon)
 ---
+---
 # @CoderzParadise - en espanol
 - ¡Hola mundo 👋, este es @coderzparadise!
 
@@ -35,7 +36,7 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 - [Portada](https://github.com/coderzparadise)
 - [Estructura Datos](https://github.com/coderzparadise/DataStructure)
 - [Algoritmo (Leetcode)](https://github.com/coderzparadise/Algorithm)
-
+---
 ---
 # @CoderzParadise - en portugues
 - Olá mundo 👋, este é @coderzparadise!
