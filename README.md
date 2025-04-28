@@ -15,7 +15,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - 1. [Home Page](https://github.com/coderzparadise)
 - 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm) 
-- 4. pip install coderzparadise (comming soon) <br>
+- 4. pip install coderzparadise (comming soon) 
 
 ---
 ---
@@ -35,10 +35,10 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 
 🌱 Dato curioso: hecho por un graduado universitario de informática/ingeniería eléctrica para ayudarte a conseguir tu trabajo en tecnología y programar en el paraíso por siempre 🌴.
 
-## Repositorio 
+### Repositorio 
 - 1. [Portada](https://github.com/coderzparadise)
 - 2. [Estructura Datos](https://github.com/coderzparadise/DataStructure)
-- 3. [Algoritmo](https://github.com/coderzparadise/Algorithm)<br>
+- 3. [Algoritmo](https://github.com/coderzparadise/Algorithm)
 
 ---
 ---
