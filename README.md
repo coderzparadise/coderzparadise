@@ -56,7 +56,8 @@ Complete 1 nova função a cada dia e todas as funções anteriores [siga o mode
 - [Pagina Principa](https://github.com/coderzparadise)
 - [DataStructure](https://github.com/coderzparadise/DataStructure)
 - [Algorithm (Leetcode)](https://github.com/coderzparadise/Algorithm)
-
+---
+---
 <!---
 coderzparadise/coderzparadise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
