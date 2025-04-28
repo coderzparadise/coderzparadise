@@ -1,4 +1,4 @@
-# @CoderzParadise
+# @CoderzParadise 🇺🇸
 - 👋 Hello world, this is @coderzparadise 
 
 - 👀 Top 200 data structure and leetcode questions to pass multiple cs technical interviews in college
@@ -18,7 +18,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - pip install coderzparadise (comming soon)
 ---
 ---
-# @CoderzParadise - en espanol
+# @CoderzParadise - en espanol 🇲🇽 🇪🇸
 - ¡Hola mundo 👋, este es @coderzparadise!
 
 - 👀 Las 200 mejores preguntas de estructura de datos y LeetCode para aprobar múltiples entrevistas técnicas de technologia en la universidad.
@@ -38,7 +38,7 @@ Completa 1 nueva función cada día y todas las funciones anteriores [sigue la p
 - [Algoritmo (Leetcode)](https://github.com/coderzparadise/Algorithm)
 ---
 ---
-# @CoderzParadise - en portugues
+# @CoderzParadise - en portugues 🇧🇷 🇵🇹
 - Olá mundo 👋, este é @coderzparadise!
 
 - 👀 Top 200 questões de estrutura de dados e LeetCode para passar em múltiplas entrevistas técnicas de ciência da computação na faculdade.
