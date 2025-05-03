@@ -5,7 +5,7 @@
 
 - ⚡ You are currently learning how to pass cs technical interviews pursing cs/ee degree
 
-- 💞️ Data structures made from scratch also including real questions from google, fb, twitter, microsoft, uber, pinterest, bloomberg...
+- 💞️ Data structures made from scratch also including real questions from google, fb, twitter, microsoft, uber, pinterest, bloomberg... 
 
 - 📫 Instructions: clone/fork both github repo's ([DataStructure](https://github.com/coderzparadise/DataStructure) && [Algorithm](https://github.com/coderzparadise/Algorithm)).\
 Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 questions/functions are complete (must be able to code and explain any data structure or function within 5 to 13 minutes tops).
