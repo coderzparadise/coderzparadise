@@ -1,4 +1,4 @@
-## Installation (How To Get Started)
+### Installation (How To Get Started)
 
 1. Install **pip** package in your terminal (command prompt):
 ```
@@ -25,7 +25,7 @@ Index | Data Structure | Class Name
 **8** | Queue | Queue()
 **9** | Set | Set()
 **10** | Stack | Stack()
-**11** | Trie() | Trie()
+**11** | Trie | Trie()
 
 
 ## Code Examples:
