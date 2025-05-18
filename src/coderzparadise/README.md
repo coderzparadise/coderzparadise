@@ -12,3 +12,14 @@ Organized way to store and manage data.
 - [x] Set
 - [x] Stack
 - [x] Trie
+
+### Examples
+```
+from coderzparadise import DataStructure
+
+ll = DataStructure.LinkedList()
+ll.insert(75)
+ll.insert(80)
+ll.insert(81)
+ll.display()
+```
