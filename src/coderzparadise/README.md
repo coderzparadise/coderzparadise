@@ -28,9 +28,8 @@ Index | Data Structure | Class Name
 **11** | Trie | Trie()
 
 
-## Code Examples:
-
-### Binary Search Tree
+# Code Examples:
+### 0. Binary Search Tree
 ```
 from coderzparadise import DataStructure
 
@@ -45,7 +44,7 @@ b.insert(95)
 b.display()
 ```
 
-### DisjointForrestSet
+### 1. DisjointForrestSet
 ```
 from coderzparadise import DataStructure
 
@@ -65,7 +64,7 @@ print('dsf num of sets: ', number_of_sets_found,\n)
 d.display()
 ```
 
-### Graph - Adjacency List
+### 2. Graph - Adjacency List
 ```
 from coderzparadise import DataStructure
 
@@ -81,7 +80,7 @@ a.insert(0, 3)
 a.display()
 ```
 
-### Graph - Adjacency Matrix
+### 3. Graph - Adjacency Matrix
 ```
 from coderzparadise import DataStructure
 
@@ -97,7 +96,7 @@ a.insert(0, 3)
 a.display()
 ```
 
-### Graph - EdgeList
+### 4. Graph - EdgeList
 ```
 from coderzparadise import DataStructure
 
@@ -113,7 +112,7 @@ e.insert(0, 3)
 e.display()
 ```
 
-### Hash Map
+### 5. Hash Map
 ```
 from coderzparadise import DataStructure
 
@@ -128,7 +127,7 @@ h.insert('hamburger')
 h.display()
 ```
 
-### Heap
+### 6. Heap
 ```
 from coderzparadise import DataStructure
 
@@ -146,7 +145,7 @@ h.display()
 ```
 
 
-### Linked List
+### 7. Linked List
 ```
 from coderzparadise import DataStructure
 
@@ -163,7 +162,7 @@ ll.insert(77)
 ll.display()
 ```
 
-### Queue
+### 8. Queue
 ```
 from coderzparadise import DataStructure
 
@@ -179,7 +178,7 @@ q.insert(50)
 q.display()
 ```
 
-### Set
+### 9. Set
 ```
 from coderzparadise import DataStructure
 
@@ -197,7 +196,7 @@ s.insert(30)
 s.display()
 ```
 
-### Stack
+### 10. Stack
 ```
 from coderzparadise import DataStructure
 
@@ -214,7 +213,7 @@ s.display()
 ```
 
 
-### Trie
+### 11. Trie
 ```
 from coderzparadise import DataStructure
 
