@@ -23,3 +23,12 @@ ll.insert(80)
 ll.insert(81)
 ll.display()
 ```
+
+```
+from coderzparadise import DataStructure
+
+e = DataStructure.EdgeList(["A", "B", "C", "D", "E", "F"])
+e.insert("C","D")
+e.insert("A","B")
+e.display()
+```
