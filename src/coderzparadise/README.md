@@ -1,3 +1,14 @@
+## Installation (How To Get Started)
+
+1. Install **pip** package in your terminal (command prompt):
+```
+pip install coderzparadise
+```
+2. Use the examples below in your code :)
+
+3. Done!
+
+
 # Data Structure
 Organized way to store and manage data.
 
@@ -17,11 +28,7 @@ Index | Data Structure | Class Name
 **11** | Trie() | Trie()
 
 
-# How To Use Examples
-
-1. pip install coderzparadise
-
-2. Use examples below to get started
+## Code Examples:
 
 ### Binary Search Tree
 ```
