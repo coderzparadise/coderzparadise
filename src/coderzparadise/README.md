@@ -1,7 +1,7 @@
 # Data Structure
 Organized way to store and manage data.
 
-### Data Structure Types
+### All Data Structure Types Available
 - [x] Binary Search Tree
 - [x] Disjoint Forrest Set
 - [x] Graph (Adjacency List, Adjacency Matrix, Edge List)
@@ -13,8 +13,8 @@ Organized way to store and manage data.
 - [x] Stack
 - [x] Trie
 
-# Examples
-### How to use Linked List
+# How To Use Examples
+### Linked List
 ```
 from coderzparadise import DataStructure
 
@@ -24,7 +24,7 @@ ll.insert(80)
 ll.insert(81)
 ll.display()
 ```
-### How to use Graph - Edge List
+### Graph - Edge List
 ```
 from coderzparadise import DataStructure
 
