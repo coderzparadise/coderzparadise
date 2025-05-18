@@ -1,4 +1,4 @@
-### Installation (How To Get Started)
+#### Installation (How To Get Started)
 
 1. Install **pip** package in your terminal (command prompt):
 ```
