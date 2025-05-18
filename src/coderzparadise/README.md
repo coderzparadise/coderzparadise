@@ -17,18 +17,6 @@ Index | Data Structure | Class Name
 **11** | Trie() | Trie()
 
 
-### All Data Structure Types Available
-- [x] Binary Search Tree
-- [x] Disjoint Forrest Set
-- [x] Graph (Adjacency List, Adjacency Matrix, Edge List)
-- [x] HashMap
-- [x] Heap
-- [x] LinkedList
-- [x] Queue
-- [x] Set
-- [x] Stack
-- [x] Trie
-
 # How To Use Examples
 
 1. pip install coderzparadise
