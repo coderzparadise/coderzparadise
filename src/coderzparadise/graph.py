@@ -6,101 +6,6 @@ Created on Mon Aug  2 17:33:46 2021
 """
 import numpy as np
 
-class EdgeList(object):
-    def __init__(self, nodes):
-        self.node = nodes
-        self.item = []
-
-    # overloading insert() and add() function for easy-use
-    def insert(self, item1, item2):
-        if item1 in self.node and item2 in self.node:
-            index1 = self.node.index(item1)
-            index2 = self.node.index(item2)
-            #Append edge1, edge2, weight of edge
-            self.item.append([index1, index2, 0])
-        else:
-            index1 = item1
-            index2 = item2
-            self.item.append([index1, index2, 0])
-
-    # overloading add() and insert() function for easy-use  
-    def add(self, item1, item2):
-        if item1 in self.node and item2 in self.node:
-            index1 = self.node.index(item1)
-            index2 = self.node.index(item2)
-            #Append edge1, edge2, weight of edge
-            self.item.append([index1, index2, 0])
-        else:
-            index1 = item1
-            index2 = item2
-            self.item.append([index1, index2, 0])
-        
-    def display(self):
-        print(self.item)
-        
-    def edge_list_to_adj_list(self):
-        a = []
-        for i in range(len(self.node) ):
-            a.append([])
-        for j in self.item:
-            a[j[0]].append( j[1] )
-        return a
-    
-    def edge_list_to_adj_matrix(self):
-        result = np.zeros( (len(self.node), len(self.node)), dtype = bool)
-        for i in self.item:
-            result[i[0]][i[1]] = True
-        return result
-
-
-class AdjacencyMatrix(object):
-    def __init__(self, nodes):
-        self.node = nodes
-        self.item = np.zeros((len(self.node), len(self.node)), dtype = bool)
-        
-    # overloading insert() and add() function for easy-use
-    def insert(self, item1, item2):
-        if item1 in self.node and item2 in self.node:
-            index1 = self.node.index(item1)
-            index2 = self.node.index(item2)
-            self.item[index1][index2] = True
-        else:
-            index1 = item1
-            index2 = item2
-            self.item[index1][index2] = True
-
-    # overloading add() and insert() function for easy-use  
-    def add(self, item1, item2):
-        if item1 in self.node and item2 in self.node:
-            index1 = self.node.index(item1)
-            index2 = self.node.index(item2)
-            self.item[index1][index2] = True
-        else:
-            index1 = item1
-            index2 = item2
-            self.item[index1][index2] = True
-            
-    def display(self):
-        print(self.item)
-            
-    def adj_matrix_to_adj_list(self):
-        a = []
-        for i in range(len(self.item)):
-            a.append([])
-            for j in range(len(self.item)):
-                if self.item[i][j] == True:
-                    a[i].append(j)
-        return a
-                
-    def adj_matrix_to_edge_list(self):
-        e = []
-        for i in range(len(self.item)):
-            for j in range(len(self.item)):
-                if self.item[i][j] == True:
-                    e.append([i, j, 0])
-        return e
-
-
 class AdjacencyList(object):
     def __init__(self, nodes):
         self.node = nodes
@@ -215,3 +120,100 @@ class AdjacencyList(object):
             return result
         else:
             return []
+
+
+
+class AdjacencyMatrix(object):
+    def __init__(self, nodes):
+        self.node = nodes
+        self.item = np.zeros((len(self.node), len(self.node)), dtype = bool)
+        
+    # overloading insert() and add() function for easy-use
+    def insert(self, item1, item2):
+        if item1 in self.node and item2 in self.node:
+            index1 = self.node.index(item1)
+            index2 = self.node.index(item2)
+            self.item[index1][index2] = True
+        else:
+            index1 = item1
+            index2 = item2
+            self.item[index1][index2] = True
+
+    # overloading add() and insert() function for easy-use  
+    def add(self, item1, item2):
+        if item1 in self.node and item2 in self.node:
+            index1 = self.node.index(item1)
+            index2 = self.node.index(item2)
+            self.item[index1][index2] = True
+        else:
+            index1 = item1
+            index2 = item2
+            self.item[index1][index2] = True
+            
+    def display(self):
+        print(self.item)
+            
+    def adj_matrix_to_adj_list(self):
+        a = []
+        for i in range(len(self.item)):
+            a.append([])
+            for j in range(len(self.item)):
+                if self.item[i][j] == True:
+                    a[i].append(j)
+        return a
+                
+    def adj_matrix_to_edge_list(self):
+        e = []
+        for i in range(len(self.item)):
+            for j in range(len(self.item)):
+                if self.item[i][j] == True:
+                    e.append([i, j, 0])
+        return e
+
+
+        
+class EdgeList(object):
+    def __init__(self, nodes):
+        self.node = nodes
+        self.item = []
+
+    # overloading insert() and add() function for easy-use
+    def insert(self, item1, item2):
+        if item1 in self.node and item2 in self.node:
+            index1 = self.node.index(item1)
+            index2 = self.node.index(item2)
+            #Append edge1, edge2, weight of edge
+            self.item.append([index1, index2, 0])
+        else:
+            index1 = item1
+            index2 = item2
+            self.item.append([index1, index2, 0])
+
+    # overloading add() and insert() function for easy-use  
+    def add(self, item1, item2):
+        if item1 in self.node and item2 in self.node:
+            index1 = self.node.index(item1)
+            index2 = self.node.index(item2)
+            #Append edge1, edge2, weight of edge
+            self.item.append([index1, index2, 0])
+        else:
+            index1 = item1
+            index2 = item2
+            self.item.append([index1, index2, 0])
+        
+    def display(self):
+        print(self.item)
+        
+    def edge_list_to_adj_list(self):
+        a = []
+        for i in range(len(self.node) ):
+            a.append([])
+        for j in self.item:
+            a[j[0]].append( j[1] )
+        return a
+    
+    def edge_list_to_adj_matrix(self):
+        result = np.zeros( (len(self.node), len(self.node)), dtype = bool)
+        for i in self.item:
+            result[i[0]][i[1]] = True
+        return result
