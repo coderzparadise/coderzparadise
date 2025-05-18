@@ -16,6 +16,8 @@ Index | Data Structure | Class Name
 **10** | Stack | Stack()
 **11** | Trie | Trie()
 
+---
+
 #### Installation (How To Get Started)
 
 1. Install **pip** package in your terminal (command prompt):
