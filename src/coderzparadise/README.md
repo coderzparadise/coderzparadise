@@ -21,6 +21,8 @@ Index | Data Structure | Class Name
 
 1. pip install coderzparadise
 
+2. Use examples below to get started
+
 ### Linked List
 ```
 from coderzparadise import DataStructure
