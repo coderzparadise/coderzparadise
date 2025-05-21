@@ -1,5 +1,5 @@
 # @CoderzParadise 🇺🇸 
-- 👋 Hello world, this is @coderzparadise 
+- 👋 Hello world, this is @coderzparadise
 
 - 👀 Top 200 data structure and leetcode questions to pass multiple swe technical interviews in college
 
