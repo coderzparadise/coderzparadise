@@ -1,4 +1,4 @@
-#### pip install Repository (How To Get Started)
+#### Instructions (How To Get Started)
 
 1. Install **pip** package in your terminal (command prompt):
 ```
@@ -182,7 +182,7 @@ q.display()
 ```
 from coderzparadise import DataStructure
 
-ll = DataStructure.Set()
+s = DataStructure.Set()
 
 s.insert(10)
 s.insert(10)
