@@ -32,9 +32,9 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 - 🌱 Dato curioso: hecho por un graduado universitario en technologia/ingeniería para ayudarte a conseguir tu trabajo en tecnología y programar en paraíso 🌴.
 
 #### Repositorio 
-- 1. [Portada](https://github.com/coderzparadise)
+- 1. [Pagina principa](https://github.com/coderzparadise)
 - 2. [Estructura Datos](https://github.com/coderzparadise/DataStructure)
-- 3. [Algoritmo](https://github.com/coderzparadise/Algorithm)
+- 3. [Algoritm](https://github.com/coderzparadise/Algorithm)
 ---
 ---
 ---
