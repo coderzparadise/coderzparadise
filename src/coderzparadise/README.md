@@ -1,7 +1,12 @@
-#### pip install Repository
+#### pip install Repository (How To Get Started)
+
+1. Install **pip** package in your terminal (command prompt):
 ```
 pip install coderzparadise
 ```
+2. Use the examples below in your code :)
+
+3. Done!
 
 # Data Structure
 Organized way to store and manage data.
@@ -20,18 +25,6 @@ Index | Data Structure | Class Name
 **9** | Set | Set()
 **10** | Stack | Stack()
 **11** | Trie | Trie()
-
----
-
-#### Installation (How To Get Started)
-
-1. Install **pip** package in your terminal (command prompt):
-```
-pip install coderzparadise
-```
-2. Use the examples below in your code :)
-
-3. Done!
 
 ---
 
