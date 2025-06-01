@@ -1,3 +1,8 @@
+# Pip install Repository
+```
+pip install coderzparadise
+```
+
 # Data Structure
 Organized way to store and manage data.
 
