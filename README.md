@@ -34,7 +34,7 @@ Complete 1 new function each day and all previous fuctions [follow repo template
 #### Repositorio 
 - 1. [Pagina principa](https://github.com/coderzparadise)
 - 2. [Estructura Datos](https://github.com/coderzparadise/DataStructure)
-- 3. [Algoritm](https://github.com/coderzparadise/Algorithm)
+- 3. [Algorithm](https://github.com/coderzparadise/Algorithm)
 ---
 ---
 ---
