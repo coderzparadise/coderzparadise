@@ -1,4 +1,4 @@
-#### Pip install Repository
+#### pip install Repository
 ```
 pip install coderzparadise
 ```
