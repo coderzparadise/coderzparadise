@@ -30,7 +30,7 @@ Index | Data Structure | Class Name
 
 # Code Examples:
 ### 0. Binary Search Tree
-https://github.com/coderzparadise/DataStructure/tree/main/BinarySearchTree
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/BinarySearchTree)
 ```
 from coderzparadise import DataStructure
 
