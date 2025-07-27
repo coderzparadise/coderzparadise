@@ -43,7 +43,6 @@ b.insert(95)
 
 b.display()
 ```
-<img width="389" height="552" alt="Screenshot 2025-07-27 at 11 01 30 AM" src="https://github.com/user-attachments/assets/d54e4e8e-10b3-4d6e-85bb-aa17e2d7980e" />
 
 
 ### 1. DisjointForrestSet
