@@ -47,6 +47,7 @@ b.display()
 
 
 ### 1. DisjointForrestSet
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/DisjointForrestSet)
 ```
 from coderzparadise import DataStructure
 
@@ -67,6 +68,7 @@ d.display()
 ```
 
 ### 2. Graph - Adjacency List
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Graph)
 ```
 from coderzparadise import DataStructure
 
@@ -83,6 +85,7 @@ a.display()
 ```
 
 ### 3. Graph - Adjacency Matrix
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Graph)
 ```
 from coderzparadise import DataStructure
 
@@ -99,6 +102,7 @@ a.display()
 ```
 
 ### 4. Graph - EdgeList
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Graph)
 ```
 from coderzparadise import DataStructure
 
@@ -115,6 +119,7 @@ e.display()
 ```
 
 ### 5. Hash Map
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/HashMap)
 ```
 from coderzparadise import DataStructure
 
@@ -130,6 +135,7 @@ h.display()
 ```
 
 ### 6. Heap
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Heap)
 ```
 from coderzparadise import DataStructure
 
@@ -148,6 +154,7 @@ h.display()
 
 
 ### 7. Linked List
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/LinkedList)
 ```
 from coderzparadise import DataStructure
 
@@ -165,6 +172,7 @@ ll.display()
 ```
 
 ### 8. Queue
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Queue)
 ```
 from coderzparadise import DataStructure
 
@@ -181,6 +189,7 @@ q.display()
 ```
 
 ### 9. Set
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Set)
 ```
 from coderzparadise import DataStructure
 
@@ -199,6 +208,7 @@ s.display()
 ```
 
 ### 10. Stack
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Stack)
 ```
 from coderzparadise import DataStructure
 
@@ -216,6 +226,7 @@ s.display()
 
 
 ### 11. Trie
+[UML](https://github.com/coderzparadise/DataStructure/tree/main/Trie)
 ```
 from coderzparadise import DataStructure
 
